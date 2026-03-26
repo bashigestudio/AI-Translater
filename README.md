@@ -1,12 +1,13 @@
-# Bashige Translate (Ad Edition)
+# Best AI translator for Windows free—Bashige AI Translator
 
-**Bashige Translate** is a lightweight Windows desktop translator designed around four core principles:
+**Bashige AI Translate** is a lightweight Windows desktop translator designed around four core principles:
 
 - **Simple**: clean 4:3 UI, minimal controls, no clutter
 - **Efficient**: paste → translate → stream → copy, optimized for fast iteration
 - **AI-smart**: streaming output, mode control, and automatic source-language detection
 - **Single-file**: ship a **portable EXE** (no installer required)
-
+  
+![项目演示](./demo.jpg)
 ## Features
 
 - **Streaming translation**: see output as it’s generated
