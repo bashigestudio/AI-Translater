@@ -5,9 +5,9 @@
 - **Simple**: clean 4:3 UI, minimal controls, no clutter
 - **Efficient**: paste → translate → stream → copy, optimized for fast iteration
 - **AI-smart**: streaming output, mode control, and automatic source-language detection
-- **Single-file**: ship a **portable EXE** (no installer required)
+- **Single-file**: ship a **portable EXE** (no installer required), Download it directly here: https://github.com/bashigestudio/AI-Translator/releases
   
-![项目演示](./demo.jpg)
+![demo](./demo.jpg)
 ## Features
 
 - **Streaming translation**: see output as it’s generated
